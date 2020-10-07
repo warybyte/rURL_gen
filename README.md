@@ -1,2 +1,2 @@
 # rURL_gen
-random URL generator for secure web links
+rURL_gen is a PoC random URL generator for secured web links.
